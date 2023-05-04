@@ -1,4 +1,4 @@
-const RUTA_IMAGEN = "http://localhost/sistema-gimnasio/api/"
+const RUTA_IMAGEN = "http://localhost/gimnasio/api/"
 const DIAS = ["Domingo" ,"Lunes" ,"Martes" ,"Miércoles" ,"Jueves" ,"Viernes" ,"Sábado"]
 const MESES = ["Enero" ,"Febrero" ,"Marzo" ,"Abril" ,"Mayo" ,"Junio" ,"Julio" ,"Agosto" ,"Septiembre" ,"Octubre" ,"Noviembre" ,"Diciembre"]
 

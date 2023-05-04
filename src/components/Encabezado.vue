@@ -3,7 +3,7 @@
     <v-app-bar color="primary" class="flex-grow-0" app dark>
       <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
       <v-toolbar-title>
-        <img src="@/assets/logo.png" width="200">
+        <img src="@/assets/logo.png" width="50">
       </v-toolbar-title>
       <v-spacer></v-spacer>
 
